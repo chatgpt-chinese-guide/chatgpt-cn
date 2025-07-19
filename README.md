@@ -1,13 +1,13 @@
-# ChatGPT 中文版 ：国内最简单的ChatGPT镜像网站使用教程（支持GPT-4/4o，无需翻墙）【6月最新】
+# ChatGPT 中文版 ：国内最简单的ChatGPT镜像网站使用教程（支持GPT-4/4o，无需翻墙）【7月最新】
 
-> **更新时间： 2025/06/06**       
+> **更新时间： 2025/07/20**       
 
 本文提供全面的 **ChatGPT 中文版**使用指南，推荐国内镜像网站，支持GPT-4.0、GPT-4o、GPT-o1 Pro、GPT-o3，无需翻墙。了解如何直接使用 **ChatGPT 中文版**，提升工作效率。 
 
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
 ChatGPT 中文版：[Xsimplechat.com](https://xsimplechat.com)   
-ChatGPT 镜像网站：[chat.lanjing.pro](https://chat.lanjing.pro)
+ChatGPT 镜像网站：[chat.lanjingai.org](https://chat.lanjingai.org)
 
 ---
 
@@ -42,7 +42,7 @@ ChatGPT 镜像网站：[chat.lanjing.pro](https://chat.lanjing.pro)
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
 | [xsimplechat.com](https://xsimplechat.com)   | GPT-4.0、GPT-4o、GPT-o1 Pro、GPT-o3，Claude 4 Sonnet、deepseek-r1，GPT-o3 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图和AI PPT，适合开发者与普通用户 |
-| [chat.lanjing.pro](https://chat.lanjing.pro)         | GPT 全系列模型, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话        |
+| [chat.lanjingai.org](https://chat.lanjingai.org)         | GPT 全系列模型, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话        |
 | [yixiaai.cn](https://yixiaai.cn)         | AI全能导航站  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 各种AI工具，应有尽有        |
 ---
 
